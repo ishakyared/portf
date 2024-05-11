@@ -216,7 +216,7 @@ article {
   border-radius: inherit;
   z-index: -1;
 }
-
+ .testceo {color: #07BEEC;}
 .icon-box ion-icon { --ionicon-stroke-width: 35px; }
 
 article { display: none; }

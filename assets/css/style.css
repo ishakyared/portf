@@ -1,19 +1,4 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
 
-
-/**
- * copyright 2022 ram mijar https://github.com/Ram2020-art
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
 
 :root {
 
@@ -565,7 +550,9 @@ main {
   font-weight: var(--fw-3);
   line-height: 1.6;
 }
-
+.service-itemtext {
+  color: white ;
+}
 
 /**
  * #testimonials 
